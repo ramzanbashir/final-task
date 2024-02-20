@@ -1,0 +1,24 @@
+.section{
+    padding-top: 8px;
+    background-color: #ffa500!important;
+}
+.karachi> img{
+    align-items: flex-end;
+    margin: 80px;
+
+}
+.link{
+    padding-top: 150px;
+}
+.imgs {
+    padding-left: 45px;
+    gap: 10px;
+    padding-top: 45px;
+    box-shadow: transparent;
+}
+.kki{
+    border: transparent;
+}
+.jaa{
+    padding-top: 10px;
+}
